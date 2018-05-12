@@ -1,0 +1,35 @@
+_repo: An-Arrow-in-a-Sunbeam-and-Other-Tales_26407
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26407-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Sleight, C. S.
+    gutenberg_agent_id: '31988'
+    url: http://www.gutenberg.org/2009/agents/31988
+  - agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+  - agent_name: Lee, Frances, active 19th century
+    gutenberg_agent_id: '31987'
+    url: http://www.gutenberg.org/2009/agents/31987
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Juvenile fiction'
+tableOfContents: Arrow in a sunbeam -- Miss Sydney's flowers -- Brave boy -- Lady
+  Ferry -- Bit of shore life -- How Lily got the cat.
+title: An Arrow in a Sunbeam, and Other Tales
+url: http://www.gutenberg.org/ebooks/26407
